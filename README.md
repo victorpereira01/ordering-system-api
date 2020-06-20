@@ -1,5 +1,5 @@
 # Order API
-REST API of an ordering system using Spring Boot and JPA/Hibernate
+API of an ordering system using Spring Boot and JPA/Hibernate
 
 >https://myapp-javasb.herokuapp.com/
 
